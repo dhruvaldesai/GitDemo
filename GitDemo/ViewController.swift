@@ -13,10 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("hello woeld")
-        print("testing")
-        
-    
-    }
+        print("2+2")
 
 
 }
