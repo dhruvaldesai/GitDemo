@@ -14,7 +14,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("hello woeld")
         print("2+2")
-    }
 
 
 }
